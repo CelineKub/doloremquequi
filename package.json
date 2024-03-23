@@ -1,0 +1,43 @@
+{
+  "name": "doloremquequi",
+  "version": "1.0.0",
+  "description": "an indexed quad mesh with normals and UVs",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "JimmieLindgren",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^10.2.4",
+    "budo": "^4.1.0",
+    "garnish": "^2.1.3",
+    "uglify-js": "^2.4.23",
+    "glo-demo-primitive": "^2.0.1"
+  },
+  "keywords": [
+    "pariatur",
+    "js",
+    "glo-js",
+    "dolorem",
+    "incidunt",
+    "glsl",
+    "minima",
+    "repellat",
+    "odit",
+    "cum",
+    "quad",
+    "quae",
+    "flat",
+    "quam",
+    "iste",
+    "distinctio",
+    "cells",
+    "indexed"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CelineKub/doloremquequi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CelineKub/doloremquequi.git/issues"
+  }
+}
